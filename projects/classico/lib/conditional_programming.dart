@@ -7,7 +7,7 @@ void main(){
   else if (a<50){
     //cond 2 is true
   }
- 
+
   // ... goes like this
 
   else{
